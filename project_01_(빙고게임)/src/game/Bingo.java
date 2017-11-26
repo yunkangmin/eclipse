@@ -1,5 +1,5 @@
 package game;
-
+//dfdfdfdfdfd
 public class Bingo {
 	int num;	//숫자
 	boolean flag;//체크가 된건지 아닌건지 -true 체크된것 false 체크안된것
